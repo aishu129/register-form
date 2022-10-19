@@ -1,0 +1,33 @@
+*{
+    margin: 5px;
+    padding: 5px;
+    font-family: sans-serif;
+    font-weight: 200;
+}
+
+body{
+    background-color: aqua;
+    text-align: center;
+}
+
+.employee-register-form{
+    max-wclassth: 500px;
+    background-color: white;
+    
+    
+}
+
+.employee-register-form .title{
+    font-size: 20px;
+    font-weight: 400;
+    
+}
+
+.employee-register-form input{
+    align-items: center;
+}
+
+.employee-register-form form textarea{
+    wclassth: 80%;
+    height:100px;
+}
